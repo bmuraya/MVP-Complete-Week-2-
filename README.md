@@ -35,11 +35,16 @@ Focused on data models and database setup initially, ensuring a robust foundatio
 ## "Nice to Have" Features:
 Once the Minimum Viable Product (MVP) was achieved, we incorporated additional features to enhance user experience and overall functionality. These additions contribute to the comprehensive and user-friendly nature of the "Homeony" app.
 
-## summary 
+## Summary 
 our project successfully mirrors the objectives of "Homeony" by delivering a web application that simplifies household management. The integration of features like task assignment, bill tracking, and a web-based notepad system contributes to a more organized and harmonious living experience for users.
 
+# Uncompleted Projects (as Planned):
 
+## API Integration for Advanced Features:
+While we have successfully implemented basic features, work is still underway to explore and integrate APIs for advanced functionalities. This includes further enhancements to task management, bill tracking, and grocery inventory.
 
+## Future Enhancements:
+Considering the evolving needs of users, our project roadmap includes plans for continuous improvement and the addition of new features. These enhancements will ensure that "Homeony" remains a cutting-edge solution for household management.
 
 
 
