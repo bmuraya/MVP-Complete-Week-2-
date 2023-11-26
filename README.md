@@ -46,6 +46,23 @@ While we have successfully implemented basic features, work is still underway to
 ## Future Enhancements:
 Considering the evolving needs of users, our project roadmap includes plans for continuous improvement and the addition of new features. These enhancements will ensure that "Homeony" remains a cutting-edge solution for household management.
 
+# CHALLENGES – in WEEK 2 –
+
+## Technical Challenge:
+The primary technical challenge faced during Week 2 was identifying suitable APIs for advanced features. Determining how these APIs fit into the Model-View-Controller (MVC) architecture and aligning them with our HTML progression required careful consideration.
+
+## User Interface Optimization:
+Optimizing the user interface based on data layouts posed a challenge. Balancing aesthetics with functionality to create an intuitive and visually pleasing design required meticulous planning and iteration.
+
+## Non-Technical Challenge:
+The principal non-technical challenge encountered in Week 2 was managing user expectations regarding app features and functionalities. As "Homeony" aims to simplify household management, ensuring that user needs are met and expectations are exceeded required effective communication and feedback mechanisms.
+
+## User Feedback and Iteration:
+Handling user feedback, especially regarding "nice to have" features, presented a non-technical challenge. Balancing user requests with project timelines and priorities required careful consideration to maintain a streamlined development process.
+
+In overcoming these challenges, we focused on effective communication, regular feedback loops, and iterative design processes to ensure that both technical and non-technical aspects were addressed in our "Homeony" project.
+
+
 
 
 
