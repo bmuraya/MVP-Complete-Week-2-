@@ -60,9 +60,12 @@ The principal non-technical challenge encountered in Week 2 was managing user ex
 ## User Feedback and Iteration:
 Handling user feedback, especially regarding "nice to have" features, presented a non-technical challenge. Balancing user requests with project timelines and priorities required careful consideration to maintain a streamlined development process.
 
-In overcoming these challenges, we focused on effective communication, regular feedback loops, and iterative design processes to ensure that both technical and non-technical aspects were addressed in our "Homeony" project.
+In overcoming these challenges, we focused on effective communication, regular feedback loops, and iterative design processes to ensure that both technical and non-technical aspects were addressed in our ***Homeony*** project.
 
 
+# Screenshots
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](images/LoginFeature.jpg)
 
 
 
